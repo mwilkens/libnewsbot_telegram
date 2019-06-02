@@ -1,0 +1,26 @@
+{
+  "name": "libnewsbot_telegram",
+  "version": "1.0.0",
+  "description": "Liberation News Telegram Bot",
+  "main": "libnewsbot.js",
+  "scripts": {
+    "test": "node libnewsbot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwilkens/libnewsbot_telegram.git"
+  },
+  "keywords": [
+    "liberation",
+    "news",
+    "telegram",
+    "rss",
+    "bot"
+  ],
+  "author": "Mandy Wilkens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwilkens/libnewsbot_telegram/issues"
+  },
+  "homepage": "https://github.com/mwilkens/libnewsbot_telegram#readme"
+}
